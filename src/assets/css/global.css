@@ -1,0 +1,14 @@
+/* 全局样式 所有组件都生效 */
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body,#app{
+    height: 100%;
+}
+.el-card{
+    margin: 15px;
+}
+.el-table{
+    margin: 20px 0;
+}
